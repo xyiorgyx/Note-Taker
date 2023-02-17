@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 const app = express();
-const uuid = require('helper/uuid');
+const uuid = require('./helper/uuid');
 const PORT = 3001;
 const {writeToFile, readFromFile, readAndAppend } = require('./helper/helper');
 
