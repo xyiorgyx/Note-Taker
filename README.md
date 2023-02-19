@@ -12,9 +12,11 @@ The note Taker is a simple application that allows you to create, edit, and dele
 4. If user wishes to delete a page of notes. Simply click on the trash can icon on the left side beside the note title name you wish to delete. 
 
 ## Live link
+https://floating-falls-23618.herokuapp.com/
 
 ## Git hub link
 https://github.com/xyiorgyx/Note-Taker
+
 ## Technologies used:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
