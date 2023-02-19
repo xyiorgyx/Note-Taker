@@ -14,7 +14,7 @@ The note Taker is a simple application that allows you to create, edit, and dele
 ## Live link
 
 ## Git hub link
-
+https://github.com/xyiorgyx/Note-Taker
 ## Technologies used:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
